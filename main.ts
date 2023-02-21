@@ -73,7 +73,7 @@ images.createImage(`
 images.createImage(`
     . # # # .
     # . # . #
-    # # # # .
+    # . # . #
     . # # # .
     . # # # .
     `),

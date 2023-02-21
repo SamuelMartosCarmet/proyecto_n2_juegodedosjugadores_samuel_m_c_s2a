@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="B{[*M}]Q-*kM^N]AV5-?">list</variable><variable id="x~-jXP-tnT_1=AexWNlm">puntuacion 1</variable><variable id="|!LI~q0R;I;IT+d*`o4W">lista</variable><variable id="SX-U-9WhL^nB8Q?7:PYU">valor lista</variable><variable id="t]Pg!]jFgIy0(ID+RoZT">myImage</variable><variable id="O-ZnPcD5(k8fsh#8Ggl#">icono</variable><variable id="N8oLSyWJUV-|7#qhpi;`">pulsado</variable><variable id="{~[tcv]?$_==;8_o:,[0">numero de imagen</variable></variables><block type="device_forever" id="Wv,QY_$Z4gSe(C@%ADue" x="-494" y="-135"><statement name="HANDLER"><block type="function_call" id="iAr2{;MGnU.`]ii/dFUw"><mutation name="Cojer elemento de la lista" functionid="#k:]Jf5F%tjmFw?h).~D"></mutation></block></statement></block><block type="pxt-on-start" id="**J558NU3y[jtO]@YCHI" x="-788" y="-20"><statement name="HANDLER"><block type="variables_set" id="w.kC3G:iWKNxZ3++nE7V"><field name="VAR" id="x~-jXP-tnT_1=AexWNlm">puntuacion 1</field><value name="VALUE"><shadow type="math_number" id="^,iZ}TH,J8~;|PR|,zi9"><field name="NUM">0</field></shadow></value><next><block type="variables_set" id="%?N^W-_ZA?qP5W[@Q,Yy"><field name="VAR" id="O-ZnPcD5(k8fsh#8Ggl#">icono</field><value name="VALUE"><shadow type="math_number" id="(CV.@Ux.o(Y!z9yI*~R)"><field name="NUM">0</field></shadow></value><next><block type="variables_set" id="-b5[.0:x-TdgDx?{;fSj"><field name="VAR" id="|!LI~q0R;I;IT+d*`o4W">lista</field><value name="VALUE"><block type="lists_create_with" id="=3M8^]EIxeS46mDijn[Q" inline="false"><mutation items="10" horizontalafter="3"></mutation><value name="ADD0"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="bQmp#fJ{%eY}UjPqK*Xi"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="B{[*M}]Q-*kM^N]AV5-?">list</variable><variable id="x~-jXP-tnT_1=AexWNlm">puntuacion 1</variable><variable id="|!LI~q0R;I;IT+d*`o4W">lista</variable><variable id="SX-U-9WhL^nB8Q?7:PYU">valor lista</variable><variable id="t]Pg!]jFgIy0(ID+RoZT">myImage</variable><variable id="O-ZnPcD5(k8fsh#8Ggl#">icono</variable><variable id="N8oLSyWJUV-|7#qhpi;`">pulsado</variable><variable id="{~[tcv]?$_==;8_o:,[0">numero de imagen</variable></variables><block type="device_forever" id="Wv,QY_$Z4gSe(C@%ADue" x="-494" y="-135"><statement name="HANDLER"><block type="function_call" id="iAr2{;MGnU.`]ii/dFUw"><mutation name="Cojer elemento de la lista" functionid="#k:]Jf5F%tjmFw?h).~D"></mutation></block></statement></block><block type="pxt-on-start" id="05Z)x@K1+L-ZZ*E#WOYW" x="-1024" y="13"><statement name="HANDLER"><block type="variables_set" id="w.kC3G:iWKNxZ3++nE7V"><field name="VAR" id="x~-jXP-tnT_1=AexWNlm">puntuacion 1</field><value name="VALUE"><shadow type="math_number" id="^,iZ}TH,J8~;|PR|,zi9"><field name="NUM">0</field></shadow></value><next><block type="variables_set" id="%?N^W-_ZA?qP5W[@Q,Yy"><field name="VAR" id="O-ZnPcD5(k8fsh#8Ggl#">icono</field><value name="VALUE"><shadow type="math_number" id="(CV.@Ux.o(Y!z9yI*~R)"><field name="NUM">0</field></shadow></value><next><block type="variables_set" id="-b5[.0:x-TdgDx?{;fSj"><field name="VAR" id="|!LI~q0R;I;IT+d*`o4W">lista</field><value name="VALUE"><block type="lists_create_with" id="=3M8^]EIxeS46mDijn[Q" inline="false"><mutation items="10" horizontalafter="3"></mutation><value name="ADD0"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_build_image" id="bQmp#fJ{%eY}UjPqK*Xi"><field name="LEDS">`
         . # # # . 
         . # . # . 
         . # # # . 
@@ -28,16 +28,16 @@
         . # # . . 
         . # . # . 
         . # # . .
-        `</field></block></value><value name="ADD5"><shadow type="math_number"><field name="NUM">5</field></shadow><block type="device_build_image" id="me!5P~%]v}Imt`@g;6@;"><field name="LEDS">`
+        `</field></block></value><value name="ADD5"><shadow type="math_number" id="sa1LK5?nZ;nDiorapKab"><field name="NUM">5</field></shadow><block type="device_build_image" id="me!5P~%]v}Imt`@g;6@;"><field name="LEDS">`
         # . . . # 
         . # . # . 
         . . # . . 
         . # . # . 
         # . . . #
-        `</field></block></value><value name="ADD6"><shadow type="math_number"><field name="NUM">6</field></shadow><block type="device_build_image" id="qo@-HH*obs0[5^4MXGYA"><field name="LEDS">`
+        `</field></block></value><value name="ADD6"><shadow type="math_number" id="q5i:j=m92h*|MX)oqSV]"><field name="NUM">6</field></shadow><block type="device_build_image" id="qo@-HH*obs0[5^4MXGYA"><field name="LEDS">`
         . # # # . 
         # . # . # 
-        # # # # . 
+        # . # . # 
         . # # # . 
         . # # # .
         `</field></block></value><value name="ADD7"><shadow type="math_number"><field name="NUM">7</field></shadow><block type="device_build_image" id="H$T[X`83hMy)kmG~^t(9"><field name="LEDS">`
